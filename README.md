@@ -1,5 +1,3 @@
-### Hi there! I am Niteesh👋
-I’m currently working on Data Analytics. 
-I’m currently learning Data analytics with python, MySQL, Power BI and Tableau. 
-I’m looking to collaborate on Data Analytics internship & Projects.
-### Linked In : https://www.linkedin.com/in/niteesh-kumar-22509a25a
+### India's GDP analysis
+
+India's GDP analysis is a project, that analysis the relationship between India's GDP growth rate and three other variables namely Unemployment rate, FDI as % of GDP & Inflation Rate (%) with data for 15 years (2005 - 20). The project also examines how much these variables affect GDP growth rate with statistical tools like correlation and regression using python programming language.
